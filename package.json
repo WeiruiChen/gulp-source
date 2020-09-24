@@ -1,0 +1,17 @@
+{
+  "name": "gulp-source",
+  "version": "1.0.0",
+  "main": "n",
+  "repository": "https://github.com/WeiruiChen/gulp-source.git",
+  "author": "chenweirui",
+  "license": "MIT",
+  "scripts": {
+    "clean": "gulp clean",
+    "build": "gulp build",
+    "develop": "gulp develop"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "popper.js": "^1.16.1"
+  }
+}
